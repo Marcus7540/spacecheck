@@ -5,7 +5,7 @@ Spacechecker is a free space checker for linux in terminal.
 ## Installation
 ### Debian
 ```bash
-sudo apt install dotnet sdk 8.0 && git
+sudo apt install dotnet-sdk-8.0 && git
 ```
 Then we need to clone the repository
 ```
